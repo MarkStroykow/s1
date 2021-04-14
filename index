@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Montserrat:400,700&amp;subset=cyrillic-ext" rel="stylesheet">
+    <title>Prime</title>
+</head>
+<body>
+
+
+<header class="header">
+    <div class="container">
+        <div class="header__inner">
+            <div class="header__logo">Prime</div>
+
+            <nav class="nav">
+                <P></P>
+                <a class="nav__link" href="#" target="_blank">Комерческая</a>
+                <a class="nav__link" href="#" target="_blank">Загородная</a>
+                <a class="nav__link" href="#" target="_blank">Жилая</a>
+            </nav>
+        </div>
+    </div>
+</header>
+
+
+<div class="intro">
+    <div class="container">
+        <div class="intro__inner">
+            <h1 class="intro__title">Недвижимость в Москве</h1>
+
+            <a class="btn" href="#">Заказать обратный звонок</a>
+        </div>
+    </div>
+
+    <div class="slider">
+        <div class="container">
+            <span>Тел:89000000000</span>
+            <p>Почта: MarkStroykow@yandex.ru</p>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>
